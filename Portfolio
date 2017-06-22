@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Portfolio</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div id="header">
+            <h1>Jayne Doe</h1>
+            <h3>Master of shadows in the Internet!</h3>
+        </div>
+        <div id="wrapper">
+            <div id="top_page">
+                <!--<div class="pic_bio">-->
+                    <img src="Portfolio_images/photo_of_me.jpg" alt="">
+                <!--</div>-->
+                <!--<h3>About...</h3>-->
+                <div class="bio">
+                    <h3>About...</h3>
+                    <p>Hello! I'm an extremely driven and creative Full Stack Developer who is currently open for career opportunities as a front-end or back-end web developer in the Greater Seattle Area.</p> 
+                    <p>I'm a recent graduate of Coding Dojo, a coding school located in Bellevue, WA that teaches 3 full stacks in 3 months. I'm capable of learning new technologies very quickly, and am always looking for opportunities to further expand my skills and grow as a developer</p>
+                    <a href="">Continue reading</a>
+                </div>
+            </div>
+        <div id="bottom">
+            <div class="mid">
+                <h3>La Mode</h3>
+                <img src="Portfolio_images/lamode.png" alt="">
+                <p>La Mode is an Ecommerce website for designed to market various clothing products. Users are able to view the available garments, select their desired quantity, and compile a shopping cart for making a final purchase.</p>
+                <h4>Techologies:</h4>
+                <div class="technologies_footer">
+                    <div class="icon">
+                        <img src="Portfolio_images/php.png" alt="">
+                        <img src="Portfolio_images/codeigniter.png" alt="">
+                        <img src="Portfolio_images/jQuery.png" alt="">
+                        <img src="Portfolio_images/ajax.png" alt="">
+                        <img src="Portfolio_images/mysql.png" alt="">
+                        <img src="Portfolio_images/HTML.png" alt="">
+                        <img src="Portfolio_images/CSS.png" alt="">
+                        <img src="Portfolio_images/bootstrap.png" alt="">
+                    </div>
+                    <h5><span>La Mode</span></h5>
+                </div>
+            </div>
+
+
+            <div class="mid">
+                <h3>Family Contacts</h3>
+                <img src="Portfolio_images/familycontacts.png" alt="">
+                <p>Family Contacts is a free application for managing, sharing, and visualizing your family relationships for both extended and immediate family. As an essential feature of the project, your log-in information determines who you can see and reveals how people are related to you.</p>
+                <h4>Techologies:</h4>
+                <div class="technologies_footer">
+                    <div class="icon">
+                        <img src="Portfolio_images/python.png" alt="">
+                        <img src="Portfolio_images/django.png" alt="">
+                        <img src="Portfolio_images/d3.png" alt="">
+                        <img src="Portfolio_images/angular.png" alt="">
+                        <img src="Portfolio_images/sqlite.png" alt="">
+                        <img src="Portfolio_images/HTML.png" alt="">
+                        <img src="Portfolio_images/CSS.png" alt="">
+                        <img src="Portfolio_images/JavaScript.png" alt="">
+                        <img src="Portfolio_images/materialize.png" alt="">
+                    </div>
+                    <h5><span>Family Contacts</span></h5>
+                </div>
+            </div>
+            
+
+
+            <div class="mid">
+                <h3>fiveEleven</h3>
+                <img src="Portfolio_images/familycontacts.png" alt="">
+                <p>Five Eleven is a data visualization project built on the Python software stack. The application transforms the developer job hunt into a more visual. user friendly experience. Based on location, technology popularity, and other vast data sets, users may easily visualize the varying sizes and concentrations of the junior developer job market across the nation.</p>
+                <h4>Techologies:</h4>
+                <div class="technologies_footer">
+                    <div class="icon">
+                        <img src="Portfolio_images/python.png" alt="">
+                        <img src="Portfolio_images/django.png" alt="">
+                        <img src="Portfolio_images/d3.png" alt="">
+                        <img src="Portfolio_images/angular.png" alt="">
+                        <img src="Portfolio_images/sqlite.png" alt="">
+                        <img src="Portfolio_images/HTML.png" alt="">
+                        <img src="Portfolio_images/CSS.png" alt="">
+                        <img src="Portfolio_images/JavaScript.png" alt="">
+                        <img src="Portfolio_images/materialize.png" alt="">
+                    </div>
+                    <h5><span>fiveEleven</span></h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+            jdoe@gmails.com | 206-555-1212
+            <div class="fticon">
+                <img src="Portfolio_images/github.png" alt="">
+                <a href="">jaynedev</a>
+                <img src="Portfolio_images/linkedin.png" alt="">
+                <a href="">jayne-doe</a>
+                <img src="Portfolio_images/twitter.png" alt="">
+                <a href="">jdtweets</a>
+                <img src="Portfolio_images/codepen.png" alt="">
+                <a href="">jaynedev</a>
+            </div>
+        </div>
+
+
+
+
+            <!--<div class="famcon">
+                <h3>Family Contacts</h3>
+            </div>
+            <div class="fiveEleven">
+                <h3>fiveEleven</h3>
+            </div>
+            <div id="midpic">
+                
+            </div>
+            <div id="midpic">
+                <img src="Portfolio_images/familycontacts.png" alt="">
+            </div>
+            <div id="midpic">
+                <img src="Portfolio_images/fiveEleven.png" alt="">
+            </div>
+            <div id="descrip">
+                La Mode is an Ecommerce website for designed to market various clothing products. Users are able to view the available garments, select their desired quantity, and compile a shopping cart for making a final purchase.
+            </div>
+            <div id="descrip">
+                Family Contacts is a free application for managing, sharing, and visualizing your family relationships for both extended and immediate family. As an essential feature of the project, your log-in information determines who you can see and reveals how people are related to you.
+            </div>
+            <div id="descrip">              
+                Five Eleven is a data visualization project built on the Python software stack. The application transforms the developer job hunt into a more visual. user friendly experience. Based on location, technology popularity, and other vast data sets, users may easily visualize the varying sizes and concentrations of the junior developer job market across the nation.
+            </div>
+            <div id="tech">
+                
+            </div>
+            <div id="tech">
+                <h4>Techologies:</h4>
+            </div>
+            <div id="tech">
+                <h4>Techologies:</h4>
+            </div>
+            
+            <div id="icon">
+                <img src="Portfolio_images/JavaScript.png" alt="">
+                <img src="Portfolio_images/mongodb.png" alt="">
+                <img src="Portfolio_images/expressjs.png" alt="">
+                <img src="Portfolio_images/angular.png" alt="">
+                <img src="Portfolio_images/nodejs.png" alt="">
+                <img src="Portfolio_images/HTML.png" alt="">
+                <img src="Portfolio_images/CSS.png" alt="">
+                <img src="Portfolio_images/socket.png" alt="">
+                <div class="button">
+                    <h5>Family Contacts</h5>
+                </div>
+            </div>
+            <div id="icon">
+                <img src="Portfolio_images/python.png" alt="">
+                <img src="Portfolio_images/django.png" alt="">
+                <img src="Portfolio_images/d3.png" alt="">
+                <img src="Portfolio_images/angular.png" alt="">
+                <img src="Portfolio_images/sqlite.png" alt="">
+                <img src="Portfolio_images/HTML.png" alt="">
+                <img src="Portfolio_images/CSS.png" alt="">
+                <img src="Portfolio_images/JavaScript.png" alt="">
+                <img src="Portfolio_images/materialize.png" alt="">
+                <div class="button">
+                    <h5>fiveEleven</h5>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            jdoe@gmails.com | 206-555-1212
+            <div class="fticon">
+                <img src="Portfolio_images/github.png" alt="">
+                <a href="">jaynedev</a>
+                <img src="Portfolio_images/linkedin.png" alt="">
+                <a href="">jayne-doe</a>
+                <img src="Portfolio_images/twitter.png" alt="">
+                <a href="">jdtweets</a>
+                <img src="Portfolio_images/codepen.png" alt="">
+                <a href="">jaynedev</a>
+            </div>
+        </div>
+    </body>
+</html>-->
